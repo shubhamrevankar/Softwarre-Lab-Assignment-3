@@ -1,0 +1,101 @@
+commit ec0ec5dbfbf017f44a6a92b19cf3ccb3d5ad67c8
+Author: Shubham <shubhamsrevankar8668@gmail.com>
+Date:   Sat Mar 18 23:35:33 2023 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..bc2949a
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025, Software Engineer
+\ No newline at end of file
+
+commit c81ea1af5502a374d75032322fcf25e9b06c5a02
+Author: Shubham <shubhamsrevankar8668@gmail.com>
+Date:   Sat Mar 18 23:32:38 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 9effbe8..d805634 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-Shubham Sanjay Revankar, CSE, Haldiram, Inception
+\ No newline at end of file
++Shubham Sanjay Revankar, CSE, Haldiram, Inception
++Blue
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index bc2949a..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025, Software Engineer
+\ No newline at end of file
+
+commit 1a293c6885dcbf3b5b734785ff6f96b868b575da
+Author: Shubham <shubhamsrevankar8668@gmail.com>
+Date:   Sat Mar 18 23:29:14 2023 +0530
+
+    Created file2 with graduation year and job title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..bc2949a
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025, Software Engineer
+\ No newline at end of file
+
+commit f61785f6222f8e539651a843abda3e78b848308f
+Author: Shubham <shubhamsrevankar8668@gmail.com>
+Date:   Sat Mar 18 23:23:55 2023 +0530
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 99d5eae..9effbe8 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Shubham Sanjay Revankar, CSE
+\ No newline at end of file
++Shubham Sanjay Revankar, CSE, Haldiram, Inception
+\ No newline at end of file
+
+commit 0e8415837773ac3d3d80b34c7e1c69e6063bbc54
+Author: Shubham <shubhamsrevankar8668@gmail.com>
+Date:   Sat Mar 18 23:21:13 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 9cd523c..99d5eae 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Shubham Sanjay Revankar, Student ID: 27454
+\ No newline at end of file
++Shubham Sanjay Revankar, CSE
+\ No newline at end of file
+
+commit 90352541ef6c60559a735810f7cec42337722516
+Author: Shubham <shubhamsrevankar8668@gmail.com>
+Date:   Sat Mar 18 23:19:01 2023 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..9cd523c
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Shubham Sanjay Revankar, Student ID: 27454
+\ No newline at end of file
